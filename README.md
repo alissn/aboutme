@@ -14,7 +14,7 @@
 [![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)](mailto:a_s47_1@yahoo.com)
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,regex,bots,docker,git,graphql,jquery,js&theme=dark)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,regex,bots,docker,git,graphql,jquery,js&theme=dark)](# "php,laravel,mysql,regex,telegram_bots,docker,git,graphql,jquery,js")
 
 
 <img src="https://imgur.com/rilHVxA.png"/>
